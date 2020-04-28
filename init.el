@@ -1,11 +1,13 @@
 
-
 (package-initialize) ;; Added by Package.el
 
 (scroll-bar-mode -1) ;; removes the scroll bar
 
 (setq visible-bell 1 ;; gets rid of noise
       display-line-numbers t) ;; displays line numbers
+
+(setq inhibit-startup-message t) ;; gets rid of splash screen
+(find-file "~/.emacs.d/main.org")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
