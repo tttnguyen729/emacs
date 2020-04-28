@@ -1,0 +1,25 @@
+ls
+exit
+git remote add origin https://github.com/tttnguyen729/emacs.git
+git init
+git remote add origin https://github.com/tttnguyen729/emacs.git
+git push -u origin master
+git remote add origin https://github.com/tttnguyen729/emacs.git
+git push -u origin master
+ls
+git push
+    git push --set-upstream origin master
+git pull
+    git branch --set-upstream-to=origin/<branch> master
+git push -u origin master
+git init
+git remote add origin https://github.com/tttnguyen729/emacs.git
+git push -u origin master
+git
+git status
+git add .
+git push -u origin master
+git remote add origin https://github.com/tttnguyen729/emacs.git
+git push
+    git push --set-upstream origin master
+exit
