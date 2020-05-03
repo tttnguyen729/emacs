@@ -75,3 +75,10 @@ ls
 mv notes.org main.org
 ls
 exit
+ls
+git add .
+git commit -m "changed startup file"
+exit
+pacman -S hunspell
+sudo pacman -S hunspell
+exit

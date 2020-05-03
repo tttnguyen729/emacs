@@ -1,0 +1,22 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ 'nil)
+(setq url-cookie-secure-storage
+ '(("reddit.com"
+  [url-cookie "edgebucket" "FVwFPeS7CSZJJbC7j9" "Fri Apr 29 01:52:07 2022 GMT" "/" "reddit.com" t])
+ (".reddpics.com"
+  [url-cookie "__cfduid" "d173591f9d118487d62816a94b4bb92101588125163" "Fri, 29-May-20 01:52:43 GMT" "/" ".reddpics.com" t])
+ (".hanime.tv"
+  [url-cookie "__cfduid" "d3a391ab0f9bf6055d73b64bb5b132cf01588125332" "Fri, 29-May-20 01:55:32 GMT" "/" ".hanime.tv" t])
+ (".reddit.com"
+  [url-cookie "loid" "00000000006c025710.2.1588125107622.Z0FBQUFBQmVxTjJ6OGwxRjhMNmFiQ3doVnVSS0kzVWtZR0FyUnVlZVFWVnZ6M2JfRUo5QnhGSHp6WmZRb2hKOFVDenFJb0hvc1ZrV1dWb1ZhZWxOSWJfQjJXMjZWaXY1MTMzMDVfOGN4aHFmUVluamJxQ2F1ekxQcEZMUFJPeWRjaWZkc2sxbG11dHc" "Fri, 29 Apr 2022 01:51:47 GMT" "/" ".reddit.com" t]
+  [url-cookie "d2_token" "3.61a79ff30e761fd3e55e25c245c3b6fae679843525a9474c7d80935d0136769b.eyJhY2Nlc3NUb2tlbiI6Ii1Obi02YUxjX0ktajhzZGZiUUg2WXlKUWpiUjAiLCJleHBpcmVzIjoiMjAyMC0wNC0yOVQwMjo1MTo0Ny4wMDBaIiwibG9nZ2VkT3V0Ijp0cnVlLCJzY29wZXMiOlsiKiIsImVtYWlsIl19" "Fri, 29 Apr 2022 01:51:47 GMT" "/" ".reddit.com" t]
+  [url-cookie "csv" "1" "Fri Apr 29 01:52:08 2022 GMT" "/" ".reddit.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

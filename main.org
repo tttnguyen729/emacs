@@ -3,19 +3,21 @@
 * Links 
 C-c C-o to open link
 [[~/.emacs.d/init.el][Init File]]
+[[~/Documents/life.org][Agenda File]]
+[[~/.emacs.d/main.org][Main File]]
 
 * Keybindings
-  C-h i for documentation
-  C-h d is for finding information
-  C-x o to switch buffers
-  C-x C-c to close emacs
-  C-x C-s to save all buffers
-  C-x d for dired
-  C-x C-f to find files
+-  C-h i for documentation
+-  C-h d is for finding information
+-  C-x o to switch buffers
+-  C-x C-c to close emacs
+-  C-x C-s to save all buffers
+-  C-x d for dired
+-  C-x C-f to find files
 
 
 * Problems
- - [ ] Line numbers don't show everywhere
+ - [ ] 
  - [ ] 
  - [ ] 
 
@@ -24,4 +26,4 @@ C-c C-o to open link
 - Add color
 - Install LaTeX
 - [ ] Get flyspell
-- [ ] Add MELPA
+- [X] Add MELPA
