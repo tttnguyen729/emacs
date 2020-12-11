@@ -1,10 +1,3 @@
-sudo pacman -S git
-git clone https://github.com/tttnguyen729/emacs
-ls
-mkdir git
-ls
-mv git/ emacs/
-ls
 cd emacs/
 ls
 rm *
@@ -82,7 +75,7 @@ pwd
 ls
 mkdir git
 mv -r emacs/ git/
-	ls
+ls
 mv emacs git/
 ls
 cd git/
@@ -94,3 +87,42 @@ rm ~/.emacs.d/
 lm -s ~/git/emacs/ ~/.emacs.d
 ln -s ~/git/emacs/ ~/.emacs.d/
 ln -s ~/git/emacs/ ~/.emacs.d
+cd ~
+find . -xtype 1
+symlinks -d
+ln /
+ls /
+ls ~
+ls -l ~
+ls -al ~
+clear
+ls -al ~
+find . -xtype l
+ls
+cd git/emacs/
+ls
+ls -a
+git add .
+git commit -m "symlink success"
+git push 
+sudo pacman -S libgnome-keyring
+cd /usr/share/git/credential/gnome-keyring/
+make
+sudo pacman -S make
+make
+sudo pacman -S gcc
+make
+sudo pacman -S glib
+sudo pacman -S base-devel
+make
+sudo make
+ls
+git config --global credential.helper /usr/share/git/credential/gnome-keyring/git-credential-gnome-keyring
+cd ~/git/emacs/
+ls
+ls ..
+ls
+git add .
+git commit -m "git"
+git push
+git push
