@@ -1,0 +1,96 @@
+sudo pacman -S git
+git clone https://github.com/tttnguyen729/emacs
+ls
+mkdir git
+ls
+mv git/ emacs/
+ls
+cd emacs/
+ls
+rm *
+rm -r *
+ls
+cd 
+ls
+cd emacs/
+ls
+cd ,,
+cd ..
+ls
+cp .emacs.d/ emacs/
+cp -r .emacs.d/ emacs/
+cd emacs/
+ls
+cd ..
+ls
+cd emacs/
+git add .
+cp ~/.emacs.d/* . 
+cp -r ~/.emacs.d/* . 
+ls
+ls ~/.emacs.d/init.el 
+ls ~/.emacs.d/
+cat ~/.emacs.d/init.el 
+cat .emacs.d/init.el 
+ls
+ls -a
+rm -r *
+ls
+cp -r ~/.emacs.d/* . 
+ls
+git add .
+git commit -m "new"
+git config --global user.email "tttnguyen729@github.com"
+git config --global user.name "Thomas Nguyen"
+git commit -m "new"
+git push
+ls
+cd ..
+ls .emacs.d/
+ls
+ls -a
+rm -r .emacs.d/
+ls
+;s
+ls
+cd emacs/
+ls
+ls -a
+cd .emacs.d/
+ls
+cd ..
+ls
+ls -a
+rm -r .emacs.d/
+ls
+ls -a
+cat init.el 
+cd ..
+ls
+ls -a
+rm -r .emacs.d/
+ls
+ls -a
+ln -s emacs/ ~/.emacs.d
+ls
+ls -a
+cd .emacs.d/
+ls
+cd ..
+ls
+pwd
+ls
+mkdir git
+mv -r emacs/ git/
+	ls
+mv emacs git/
+ls
+cd git/
+ls
+cd ..
+ln -s ~/git/emacs/ ~/.emacs.d/
+ls git/
+rm ~/.emacs.d/
+lm -s ~/git/emacs/ ~/.emacs.d
+ln -s ~/git/emacs/ ~/.emacs.d/
+ln -s ~/git/emacs/ ~/.emacs.d
